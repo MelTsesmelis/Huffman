@@ -1,7 +1,7 @@
 # Huffman
+    
 
-
-# Huffman Tree Decode
+# Huffman Tree Encode and Decode
 	In this project the user enters an input file which we assume is Huffman coded  and a name for the output file.
 	This program practicaly is to decode input file (name given by user) to an output (name given by user) with ASCII characters.
 
